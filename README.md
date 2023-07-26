@@ -2,12 +2,12 @@
 
 ## Features
 
-Move selected code left or right inline
+Move selected text left or right inline
 
 ## Controls
 
-alt+left: Move selected text left
-alt+right: Move selected text right
+- ALT+LEFT: Move selected text left
+- ALT+RIGHT: Move selected text right
 
 ## 1.0.0
 
