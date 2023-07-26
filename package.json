@@ -3,8 +3,9 @@
   "displayName": "Code Mover",
   "description": "",
   "version": "1.0.0",
-  "publisher": "ahoward7",
+  "publisher": "averyhoward",
   "author": "Avery Howard",
+  "repository": "https://github.com/ahoward7/code-mover",
   "engines": {
     "vscode": "^1.80.0"
   },
